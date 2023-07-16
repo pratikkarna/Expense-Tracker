@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: url('https://wallpaperaccess.com/full/2927319.jpg') center/cover fixed no-repeat;
+}
+
+h1 {
+    margin-top: 150px;
+    color: #ffffff;
+}
+
+#app {
+    margin-top: 50px;
+}
+
+#expense-form input {
+    padding: 5px;
+    margin-right: 10px;
+}
+
+#expense-form button {
+    padding: 5px 10px;
+}
+
+#expense-list {
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+#expense-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#expense-list li {
+    margin-bottom: 5px;
+}
+
+#expense-list li span {
+    margin-right: 10px;
+}
+
+#total-expenses {
+    color: rgb(255, 255, 255);
+    margin-top: 20px;
+}
